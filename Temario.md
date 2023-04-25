@@ -4,12 +4,10 @@
 -   Versiones de Angular y sus diferencias  [!]
 -   Instalación y configuración del entorno de desarrollo
 
-## Unidad 2: Componentes y Directivas
+## Unidad 2: Componentes
 
 -   Creación y uso de componentes en Angular
 -   Componentes hijos y padres
--   Creación y uso de directivas en Angular
--   Directivas estructurales y de atributos
 
 ## Unidad 3: Formularios
 
@@ -18,12 +16,14 @@
 -   Manejo de eventos y cambios en formularios
 -   Formularios reactivos y formularios basados en plantillas
 
-## Unidad 4: Templates y Data Binding
+## Unidad 4: Templates, Data Binding  y Directivas
 
 -   Creación y uso de templates en Angular
 -   Tipos de data binding en Angular
 -   Data binding unidireccional y bidireccional
 -   Sintaxis de interpolación y directivas de enlace
+-   Creación y uso de directivas en Angular
+-   Directivas estructurales y de atributos
 
 ## Unidad 5: Módulos y Servicios
 
