@@ -3,6 +3,8 @@
 -   ¿Qué es Angular y por qué es importante?
 -   Versiones de Angular y sus diferencias  [!]
 -   Instalación y configuración del entorno de desarrollo
+-   Creación de un proyecto Angular
+-   Estructura básica de una aplicación Angular
 
 ## Unidad 2: Componentes
 
@@ -16,14 +18,20 @@
 -   Manejo de eventos y cambios en formularios
 -   Formularios reactivos y formularios basados en plantillas
 
-## Unidad 4: Templates, Data Binding  y Directivas
+## Unidad 4: Templates y Data Binding
 
 -   Creación y uso de templates en Angular
 -   Tipos de data binding en Angular
 -   Data binding unidireccional y bidireccional
+
+## Unidad 5: Directivas y Pipes
+
 -   Sintaxis de interpolación y directivas de enlace
 -   Creación y uso de directivas en Angular
 -   Directivas estructurales y de atributos
+-   Directivas estructurales (ngIf, ngFor, etc.)
+-   Directivas de atributos (ngStyle, ngClass, etc.)
+-   Pipes en Angular
 
 ## Unidad 5: Módulos y Servicios
 
@@ -31,6 +39,7 @@
 -   Diferencias entre módulos y componentes
 -   Creación y uso de servicios en Angular
 -   Inyección de dependencias en Angular
+-   Comunicación entre componentes mediante servicios
 
 ## Unidad 6: Observables y HttpClient
 
@@ -45,8 +54,9 @@
 -   Navegación entre diferentes componentes y vistas
 -   Configuración de rutas anidadas y con parámetros
 -   Manejo de eventos de navegación en Angular
+-   Uso de Guards para proteger rutas (Guards podría ir en el avanzado)
 
-## Unidad 8: Testing y Despliegue
+## Unidad 8: Despliegue
 -   Preparación de una aplicación Angular para su despliegue
 -   Despliegue en diferentes entornos: local, desarrollo y producción
 
